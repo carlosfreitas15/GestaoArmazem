@@ -1,0 +1,11 @@
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\bin\Debug\Armazem.exe.config
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\bin\Debug\Armazem.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\bin\Debug\Armazem.pdb
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.Form1.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.Properties.Resources.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Armazem\Armazem\obj\Debug\Armazem.pdb
