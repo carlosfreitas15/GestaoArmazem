@@ -11,7 +11,7 @@ namespace Diversos
     public class Conecta
     {
 
-        public static string strConn = "data source = 62.28.39.135,62444;Initial Catalog = zCarlosAdamastor;User Id=EFACarlos;Password = 123.Abc;";
+        public static string strConn = "";
 
         public string strSQL;
 
